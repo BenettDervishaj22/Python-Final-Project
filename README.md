@@ -1,1 +1,2 @@
-# Python Final Project # I am not sure what my final project will be about, but I was thinking about making it centered around defensive statistics and metrics in Major League Baseball, and what makes a fielder more valuable than others. This could make for a fun project with examples of these tremendous fielding players.
+# Python Final Project #Research Question: What characterizes a dominant pitcher in MLB?
+We will take a look at the 2010-2019 Cy Young Award winners in their respective leagues, and use metrics such as RPM's, Velo, and Pitch Mix statistics to figure out what made them the best pitchers in their respective seasons.
