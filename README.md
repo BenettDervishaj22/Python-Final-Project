@@ -3,3 +3,5 @@ We will take a look at the 2010-2019 Cy Young Award winners in their respective 
 
 
 Analysis conducted by: Benett Dervishaj, Andrew Fish, Derek Cunius, and Xander Cho.
+
+All data collected from Baseball Reference, FanGraphs, Lahman.
